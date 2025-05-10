@@ -45,6 +45,21 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Housing-Corporation&theme=onedark" />
 </a>
 
+<a href="https://github.com/DengQing/Airbnb">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Airbnb&theme=radical" />
+</a>
+
+<a href="https://github.com/DengQing/Udemy">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Udemy&theme=synthwave" />
+</a>
+
+<a href="https://github.com/DengQing/UK-Car-Accidents">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=UK-Car-Accidents&theme=cobalt" />
+</a>
+
 ###
 
 <br clear="both">
