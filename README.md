@@ -35,6 +35,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=SQL_Music_Store&theme=merko" />
 </a>
 
+<a href="https://github.com/DengQing/Titanic-Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Titanic-Prediction&theme=gruvbox" />
+</a>
+
 ###
 
 <br clear="both">
