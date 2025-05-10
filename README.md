@@ -17,13 +17,13 @@ My name is Minh Nhat. I am a Mid-Level Data at Grab. I am interested in the foll
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Power-BI-Project&theme=merko" />
 </a>
 
-<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/DengQing/SQL_Music_Store">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=SQL_Music_Store&theme=gruvbox" />
 </a>    
-<a href="https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/DengQing/SQL_Music_Store">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=SQL_Music_Store&theme=dark" />
 </a>
 
 <a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
