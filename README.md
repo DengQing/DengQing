@@ -65,6 +65,21 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Adventurework_2019&theme=highcontrast" />
 </a>
 
+<a href="https://github.com/DengQing/Calculator">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Calculator&theme=dracula" />
+</a>
+
+<a href="https://github.com/DengQing/Maze-Solver-Robot-Automatic">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Maze-Solver-Robot-Automatic&theme=radical" />
+</a>
+
+<a href="https://github.com/DengQing/Predictive-Maintenance-TTC">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Predictive-Maintenance-TTC&theme=merko" />
+</a>
+
 ###
 
 <br clear="both">
