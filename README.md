@@ -1,18 +1,25 @@
-<h2 align="left">Hi 👋! My name is MinhNhat and I'm a Mid-Level Data at Grab, I am interested in the following topics: Automation Report, Data Insight, and Market Research </h2>
+### Hi 👋! My name is MinhNhat
 
-### ⚡️ Where to find me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Data+Analyst;I%27m+a+Market+Researcher;I%27m+a+Automation%20Reporter"></p>
+
+⚡️ Where to find me
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nhatdang3009/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100007461933159" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/nhatdang_3009/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DengQing&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img align="right" height="140" width=200 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gi"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DengQing&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
-</div>
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[<img src="https://github-readme-stats.vercel.app/api?username=DengQing&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=DengQing)
+<img align="right" height="160" width=200 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gi"  />
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DengQing&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=DengQing)
 
 
 ### 🚀 Languages and Tools I Use
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
@@ -24,7 +31,8 @@
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a></p>
 
-# My Project
+### My Project
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://github.com/DengQing/Power-BI-Project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Power-BI-Project&theme=dark" />
@@ -79,6 +87,71 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Predictive-Maintenance-TTC&theme=merko" />
 </a>
+
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=DengQing">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=DengQing&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DengQing">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DengQing&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=DengQing">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=DengQing&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DengQing">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DengQing&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DengQing&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DengQing&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DengQing">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DengQing&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DengQing">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DengQing&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ###
 
