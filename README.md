@@ -34,9 +34,21 @@
 
 ### My Project
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://github.com/DengQing/Power-BI-Project">
+
+<a href="https://github.com/DengQing/Allocate-Budget-Algorithm">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Power-BI-Project&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Allocate-Budget-Algorithm&theme=radical" />
+</a>
+
+<a href="https://github.com/DengQing/GRAB-Process-Automate-DF">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=GRAB-Process-Automate-DF&theme=cobalt" />
+</a>
+
+
+<a href="https://github.com/DengQing/Data-Scrapping-Automation">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DengQing&repo=Data-Scrapping-Automation&theme=dark" />
 </a>
 
 <a href="https://github.com/DengQing/SQL_Music_Store/">
