@@ -18,6 +18,9 @@
 <img align="right" height="165" width=200 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gi"  />
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DengQing&layout=compact&theme=radical" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=DengQing)
 
+[<img src="https://github-readme-stats.vercel.app/api?username=DengQing&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api?username=DengQing)
+<img align="right" height="165" width=200 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gi"  />
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DengQing&layout=compact&theme=cobalt" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=DengQing)
 
 ### 🚀 Languages and Tools I Use
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
